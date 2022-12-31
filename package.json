@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "name": "wanted-pre-onboarding-challenge-be-task-jan.2023",
+  "description": "해당 코스는 아래와 같은 주제로 진행돼요 - 함수형 프로그래밍의 기본 개념과 친숙해질 거예요. - 함수형 패러다임으로 사고하며, 좋은 코드란 무엇일까 함께 고민하는 거예요. - 실무에서 사용하는 아키텍처에서 함수형 프로그래밍의 사용 사례를 경험해 보는 거예요.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syoungee/wanted-pre-onboarding-challenge-BE-task-JAN.2023.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syoungee/wanted-pre-onboarding-challenge-BE-task-JAN.2023/issues"
+  },
+  "homepage": "https://github.com/syoungee/wanted-pre-onboarding-challenge-BE-task-JAN.2023#readme"
+}
